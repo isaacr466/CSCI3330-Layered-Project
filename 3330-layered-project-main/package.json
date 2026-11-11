@@ -1,0 +1,16 @@
+{
+  "name": "csci3330-layered-project",
+  "version": "1.0.0",
+  "description": "CSCI 3330 layered Express project with a GET tasks route",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
